@@ -2,7 +2,7 @@
 const ExperiencesSection = () => {
     return (
         <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-        <h2 className="text-2xl font-bold mb-6">Discover experiences</h2>
+        <h2 className="text-2xl font-bold mb-6 text-gray-800">Discover experiences</h2>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
             <div className="relative rounded-2xl overflow-hidden aspect-video">
                 <img
